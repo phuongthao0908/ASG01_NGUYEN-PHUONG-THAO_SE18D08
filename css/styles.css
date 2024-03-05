@@ -1,0 +1,232 @@
+body {
+    background: #fff;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.container{
+    margin: 0 auto;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.row-left-item{
+    width: 100%;
+}
+.row-left{
+    width: 65%;
+}
+.row-left h1{
+    padding-left: 78px;
+}
+.row-left-item ul{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 10px;
+}
+.row-left-item ul li{
+    margin:0 40px;
+    list-style: none;
+    font-size: 13px;
+    font-weight: bold; 
+}
+.row-left-item ul p{
+    text-align: left;
+    width: 20%;
+    font-size: 13px;
+}
+.row-right{
+    width: 35%;
+    padding-left: 250px;
+}
+.row-right img{
+    resize: contain;
+    width: 180px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius:15px;
+    cursor: pointer;
+}
+.row-right img:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+/* ---------------------------------MT------------------------------- */
+.rows{
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.rows h1{
+    font-size: 15px;
+    border-bottom: 2px solid black;
+
+}
+.rows p{
+    font-size: 13px;
+    margin-top: 20px;
+}
+/* ---------------------------------VT----------------------------- */
+.HV{
+    margin-top: 40px;
+}
+.rowsx{
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.rowsx h1{
+    font-size: 15px;
+    border-bottom: 2px solid black;
+}
+.rowsx-item{
+    display: flex;
+    margin-top: 20px;
+   
+}
+
+.rowsx-item-left li{
+    font-size: 14px;
+}
+.rowsx-item li{
+    list-style: none;
+}
+.rowsx-item-right{
+    margin-left: 100px;
+
+}
+.rowsx-item-right li{
+    font-size: 13px;
+}
+/* -----------------------------HV1---------------------- */
+.HV1{
+    margin-top: 40px;
+}
+.rowsx1{
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.rowsx1 h1{
+    font-size: 15px;
+    border-bottom: 2px solid black;
+}
+.rowsx-item1{
+    display: flex;
+    /* margin-top: 20px; */
+   padding: 10px 0;
+    
+ 
+   
+    border-bottom: 1px solid #ddd;
+
+
+   
+}
+
+.rowsx-item-left1 li{
+    font-size: 14px;
+ 
+    
+}
+.rowsx-item1 li{
+    list-style: none;
+}
+/* .rowsx-item-left1{
+    width: 25%;
+} */
+.rowsx-item-right1{
+    margin-left: 100px;
+   
+   
+    
+}
+.rowsx-item-right1 li{
+    font-size: 13px;
+    
+}
+/* ----------------------------- KN----------------------*/
+    .roww{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 30px;
+       
+    }
+    
+    .roww h1{
+        font-size: 15px;
+        
+        border-bottom: 2px solid black;
+     
+       
+        
+    }
+    .roww-text ul{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        height: 10px;
+        font-size: 13px;
+        padding-top: 10px;
+        padding-left: 80px;
+        border-bottom: 1px solid #ddd;
+    }
+    .roww-text ul p{
+        padding-left: 150px;
+    }
+    .roww-text ul li{
+        list-style: none;
+       
+    }
+    /* -------------------------ST_____________________- */
+    .rowst1{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 40px;
+    }
+   
+    .rowst1 h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
+    /* ------------------------------DA_------------------- */
+    .rowda1{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 20px;
+    }
+    .rowda1 h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
+    .rowda1-text h2{
+        font-size: 14px;
+    }
+    .rowda1-text ul li{
+        font-size: 14px;
+    }
+    /* --------------------------LH--------------------- */
+    .rowlh{
+        margin-left: 80px;
+        margin-right: 50px;
+        padding-top: 20px;
+    }
+    .rowlh-text{
+        padding-left: 40px;
+    }
+    .rowlh-text ul li{
+        list-style: none;
+    }
+    .rowlh-text ul li a{
+        text-decoration: none;
+        color:blue;
+    }
+    .rowlh h1{
+        font-size: 15px;
+        border-bottom: 2px solid black;
+    }
+   
+
+
+
+
+
